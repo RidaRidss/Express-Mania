@@ -1,0 +1,29 @@
+<ion-content style="background: url('build/img/express1.jpg') transparent;background-size: 100%;">
+<ion-toolbar bar-header secondary> 
+<ion-buttons>
+<button style="color:#6FC9AA;">
+  <ion-icon name="hand-outline"></ion-icon>
+<!--<ion-icon name="arrow-back"></ion-icon> -->
+</button>
+  </ion-buttons> 
+<ion-title style="background: url('./build/img/express.jpg') transparent;background-size: 100%;">Express Mania</ion-title>
+</ion-toolbar>
+<br/>
+<ion-list style="background: url('build/img/express1.jpg') transparent;background-size: 100%;">
+  <div>
+  <ion-item padding style="background: url('./build/img/express1.jpg') transparent;background-size: 100%;">
+  <ion-label floating>Username</ion-label>
+    <ion-input style="color:#6FC9AA;" id="user" type="text"></ion-input>
+  </ion-item>
+<br>
+<br/>
+<br/>
+  <ion-item padding style="background: url('./build/img/express1.jpg') transparent;background-size: 100%;">
+    <ion-label floating>Password</ion-label>
+    <ion-input style="color:#6FC9AA;" type="password"></ion-input>
+  </ion-item>
+<br/>
+<button padding block style="background-color:#645320;opacity:0.8;color:#6FC9AA;font-family:fantasy" (click)="userSign()">Sign In <ion-icon ios="ios-arrow-round-forward" md="md-arrow-round-forward"></ion-icon></button>
+</div>
+</ion-list> 
+</ion-content>
