@@ -5,6 +5,9 @@
                                                                                     
 #### Starting Guide :   :memo:
 
+## First of all read description in readmeForDeployment file
+                                                                                          
+                                                                                            
 1. Open this Project in cmd 
 
 > Type Command : ionic serve  :end: 
