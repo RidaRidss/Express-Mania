@@ -1,0 +1,27 @@
+{
+  "name": "express_mania",
+  "version": "1.0.0",
+  "description": "Express_Mania : An Ionic 2 project",
+  "main": "www/index.html",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ionic serve",
+    "start": "ionic serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidaRidss/Express-Mania.git"
+  },
+  "keywords": [
+    "Ionic2" ,"Express","Angular2"
+  ],
+  "author": "Rida Bilgrami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidaRidss/Express-Mania/issues"
+  },
+  "homepage": "https://github.com/RidaRidss/Express-Mania#readme"
+}
