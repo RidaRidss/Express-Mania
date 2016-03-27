@@ -36,5 +36,6 @@
  > Type Command : ionic run ios  :iphone:  :end:
                                                                                                                                   
                                                                                                                                   
-
+## Screenshots's Album uploaded here :
+:link: http://imgur.com/a/wdcEG
 
